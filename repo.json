@@ -1,0 +1,366 @@
+{
+  "Github": {
+    "ship-it": {
+      "name": "Ship It",
+      "url": "https://github.com/mozilla-releng/ship-it",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "services": {
+      "name": "Release Services",
+      "url": "https://github.com/mozilla/release-services",
+      "team": "mozilla/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "beetmoverscript": {
+      "name": "Beet Mover Script",
+      "url": "https://github.com/mozilla-releng/beetmoverscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "addonscript": {
+      "name": "Addon Script",
+      "url": "https://github.com/mozilla-releng/addonscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "build-cloud-tools": {
+      "name": "Build Cloud Tools",
+      "url": "https://github.com/mozilla-releng/build-cloud-tools",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "build-puppet": {
+      "name": "Build Puppet",
+      "url": "https://github.com/mozilla/build-puppet",
+      "team": "mozilla/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "shipitscript": {
+      "name": "Shipit Script",
+      "url": "https://github.com/mozilla-releng/shipitscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "bouncerscript": {
+      "name": "Bouncer Script",
+      "url": "https://github.com/mozilla-releng/bouncerscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "treescript": {
+      "name": "Tree Script",
+      "url": "https://github.com/mozilla-releng/treescript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "mozapkpublisher": {
+      "name": "MozAPK Publisher",
+      "url": "https://github.com/mozilla-releng/mozapkpublisher",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "OpenCloudConfig": {
+      "name": "Open Cloud Config",
+      "url": "https://github.com/mozilla-releng/OpenCloudConfig",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "scriptworker": {
+      "name": "Script Worker",
+      "url": "https://github.com/mozilla-releng/scriptworker",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "pushsnapscript": {
+      "name": "Push Snap Script",
+      "url": "https://github.com/mozilla-releng/pushsnapscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "signingscript": {
+      "name": "Sign Script",
+      "url": "https://github.com/mozilla-releng/signingscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "pushapkscript": {
+      "name": "PushAPK Script",
+      "url": "https://github.com/mozilla-releng/pushapkscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "balrogscript": {
+      "name": "Balrog Script",
+      "url": "https://github.com/mozilla-releng/balrogscript",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    },
+    "signtool": {
+      "name": "Sign Tool",
+      "url": "https://github.com/mozilla-releng/signtool",
+      "team": "mozilla-releng/",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " "
+      }
+    }
+  },
+  "Mercurial": {
+    "mozilla-build": {
+      "name": "Mozilla-Build",
+      "url": "https://hg.mozilla.org/mozilla-build/",
+      "team": "",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "mozilla-central": {
+      "name": "Mozilla Central",
+      "url": "https://hg.mozilla.org/mozilla-central/",
+      "team": "",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "try": {
+      "name": "Mozilla Try",
+      "url": "https://hg.mozilla.org/try/",
+      "team": "",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "autoland": {
+      "name": "Mozilla Autoland",
+      "url": "https://hg.mozilla.org/integration/autoland/",
+      "team": "integration",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "inbound": {
+      "name": "Mozilla Inbound",
+      "url": "https://hg.mozilla.org/integration/mozilla-inbound/",
+      "team": "integration",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "comm-esr60": {
+      "name": "comm ESR60",
+      "url": "https://hg.mozilla.org/releases/comm-esr60/",
+      "team": "releases",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "beta": {
+      "name": "Mozilla Beta",
+      "url": "https://hg.mozilla.org/releases/mozilla-beta/",
+      "team": "releases",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "mozilla-esr60": {
+      "name": "Mozilla ESR60",
+      "url": "https://hg.mozilla.org/releases/mozilla-esr60/",
+      "team": "releases",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "mozilla-release": {
+      "name": "Mozilla Release",
+      "url": "https://hg.mozilla.org/releases/mozilla-release/",
+      "team": "releases",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "braindump": {
+      "name": "BrainDump",
+      "url": "https://hg.mozilla.org/build/braindump/",
+      "team": "build",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "ci-configuration": {
+      "name": "CI Configuration",
+      "url": "https://hg.mozilla.org/build/ci-configuration/",
+      "team": "build",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+    },
+    "ci-admin": {
+      "name": "CI Admin",
+      "url": "https://hg.mozilla.org/build/ci-admin/",
+      "team": "build",
+      "top-contributors": [" ", " "],
+      "configuration": {
+        "type": " ",
+        "folders-to-ignore": [" ", " ", " "],
+        "files-to-ignore": [" ", " ", " "],
+        "release-path": " ",
+        "push_type": "json-log"
+      }
+     }
+   }
+}
