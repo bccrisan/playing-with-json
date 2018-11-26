@@ -1,0 +1,11 @@
+Escape chars: https://docs.python.org/2.0/ref/strings.html
+Tip de date in CPP (Structuri de date): http://www.alphadev.ro/theme.php?chapter=44
+Procesul de compilare: https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/
+Structuri de date: https://www.geeksforgeeks.org/data-structures/
+https://www.geeksforgeeks.org/python-programming-language/
+Exemplu program Cpp: http://www.alphadev.ro/theme.php?chapter=42
+Arduino CPP example:    https://learn.adafruit.com/multi-tasking-the-arduino-part-1/a-classy-solution
+                        https://learn.adafruit.com/multi-tasking-the-arduino-part-1/all-together-now
+JSON Validator: https://jsonlint.com/
+
+
